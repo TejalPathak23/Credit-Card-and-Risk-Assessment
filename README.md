@@ -1,1 +1,1 @@
-# Credit-Card-and-Risk-Assessment
+# Credit-Score-and-Risk-Assessment
