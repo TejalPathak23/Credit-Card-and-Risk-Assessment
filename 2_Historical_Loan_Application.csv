@@ -1,0 +1,401 @@
+Loan ID,Customer ID,Loan Type,Loan Amount,Loan Term,Interest Rate (APR),Loan Start Date,Loan End Date,Loan Status,Collateral Value,Credit Score at Loan Application,Loan Purpose,Down Payment Amount,Repayment Schedule,Loan Officer ID
+1021,4567,Personal,15000,36,12.5,2022-01-01,2023-12-31,Active,20000,720,Household Expenses,3000,"The repayment schedule for the loan will be as follows: 
+
+Monthly Payment: $472.41 
+Payment Due Date: 1st of every month 
+Repayment Term: 36 months 
+Total Amount Paid: $16944.64",1234
+2165,541,Personal,25000,36,12.5,2022-01-15,2024-01-14,Active,20000,650,Home Improvement,5000,"The loan is to be repaid in monthly installments of $763.85 for 36 months. The first payment is due on 2022-02-14 and the last payment is due on 2024-01-14. The total amount paid over the life of the loan will be $27500.00, including the down payment of $5000.00 and the monthly payments of $22500.00. The interest paid over the life of the loan will be $4000.00. The total amount financed is $22000.00. The loan has a fixed interest rate of 12.5% per annum and the loan term is 36 months. The loan officer's name is Jane Doe and her ID is 1234. The loan was approved on 2022-01-15 and is subject to the terms and conditions of the loan agreement. The loan is secured by a collateral value of $20000.00.",1234
+1161,8002,Personal,20000,60,7.5,2022-07-15,2025-07-15,Active,15000,720,Home Improvement,5000,"The repayment schedule will be as follows:
+- Month 1-6: $333.33
+- Month 7-12: $342.42
+- Month 13-18: $351.51
+- Month 19-24: $360.61
+- Month 25-30: $369.71
+- Month 31-36: $378.81
+- Month 37-42: $387.91
+- Month 43-48: $397.01
+- Month 49-54: $406.11
+- Month 55-60: $415.21",1001
+23456,12345,Personal,25000,60,7.5,2022-01-01,2024-01-01,Active,30000,720,Home Improvement,5000,"Repayment Schedule:
+
+Repayment Term: 60 months
+Monthly Payment: $483.33
+Interest Paid: $3588.17
+Total Amount Paid: $27000
+
+
+
+
+This repayment schedule assumes a fixed interest rate of 7.5% and equal monthly payments. The total amount paid will be $27000, including $3588.17 in interest. Please note that this is an estimate and actual payments may vary based on the lender's calculations.",98765
+516,254,Personal Loan,15000,36,12.5,2022-01-01,2024-01-01,Active,0,720,Debt Consolidation,0,"The repayment schedule for this loan is as follows: The monthly payment will be $472.41 for 36 months. The total interest paid over the life of the loan will be $3579. The loan will be repaid in full on 01/01/2024. The borrower will make 36 monthly payments of $472.41, with the first payment due on 01/15/2022. The final payment will be made on 01/15/2024. The borrower will have made a total of 36 payments by the end of the loan term. The loan will be paid off in full on the last payment date. The borrower will have a remaining balance of $0 after the final payment. The loan will have been in repayment for 36 months by the time it is paid off. The borrower will have made 36 monthly payments of $472.41. The loan will be repaid in full on 01/15/2024. The borrower will have a remaining balance of $0 after the final payment. The loan will have been in repayment for 36 months by the time it is paid off. The borrower will have made 36 monthly payments of $472.41. The loan will be repaid in full on 01/15/2024. The borrower will have a remaining balance of $0 after the final payment. The loan will have been in repayment for 36 months by the time it is paid off.",111
+23456,12345,Personal Loan,20000,36,12.5,2022-01-01,2025-01-01,Active,15000,650,Home Renovation,5000,"The loan is divided into 36 monthly payments. The payment amount is $666.67. The payment schedule is as follows: 
+January 2022: $666.67, February 2022: $666.67, March 2022: $666.67, April 2022: $666.67, May 2022: $666.67, June 2022: $666.67, July 2022: $666.67, August 2022: $666.67, September 2022: $666.67, October 2022: $666.67, November 2022: $666.67, December 2022: $666.67, January 2023: $666.67, February 2023: $666.67, March 2023: $666.67, April 2023: $666.67, May 2023: $666.67, June 2023: $666.67, July 2023: $666.67, August 2023: $666.67, September 2023: $666.67, October 2023: $666.67, November 2023: $666.67, December 2023: $666.67, January 2024: $666.67, February 2024: $666.67, March 2024: $666.67, April 2024: $666.67, May 2024: $666.67, June 2024: $666.67, July 2024: $666.67, August 2024: $666.67, September 2024: $666.67, October 2024: $666.67, November 2024: $666.67, December 2024: $666.67, January 2025: $666.67.",67890
+23457,12346,Business Loan,30000,60,10,2022-02-01,2027-02-01,Active,25000,720,Business Expansion,10000,"The loan is divided into 60 monthly payments. The payment amount is $500.00. The payment schedule is as follows: 
+February 2022: $500.00, March 2022: $500.00, April 2022: $500.00, May 2022: $500.00, June 2022: $500.00, July 2022: $500.00, August 2022: $500.00, September 2022: $500.00, October 2022: $500.00, November 2022: $500.00, December 2022: $500.00, January 2023: $500.00, February 2023: $500.00, March 2023: $500.00, April 2023: $500.00, May 2023: $500.00, June 2023: $500.00, July 2023: $500.00, August 2023: $500.00, September 2023: $500.00, October 2023: $500.00, November 2023: $500.00, December 2023: $500.00, January 2024: $500.00, February 2024: $500.00, March 2024: $500.00, April 2024: $500.00, May 2024: $500.00, June 2024: $500.00, July 2024: $500.00, August 2024: $500.00, September 2024: $500.00, October 2024: $500.00, November 2024: $500.00, December 2024: $500.00, January 2025: $500.00, February 2025: $500.00, March 2025: $500.00, April 2025: $500.00, May 2025: $500.00, June 2025: $500.00, July 2025: $500.00, August 2025: $500.00, September 2025: $500.00, October 2025: $500.00, November 2025: $500.00, December 2025: $500.00, January 2026: $500.00, February 2026: $500.00, March 2026: $500.00, April 2026: $500.00, May 2026: $500.00, June 2026: $500.00, July 2026: $500.00, August 2026: $500.00, September 2026: $500.00, October 2026: $500.00, November 2026: $500.00, December 2026: $500.00, January 2027: $500.00, February 2027: $500.00",12345
+2002,8001,Personal Loan,15000,36,12.5,2022-01-01,2024-01-01,Active,0,720,Wedding Expenses,5000,"The repayment schedule for this loan will be as follows:
+- Month 1-3: $416.67
+- Month 4-6: $416.67
+- Month 7-12: $416.67
+- Month 13-24: $416.67
+
+This schedule will allow the customer to make equal monthly payments of $416.67 for 36 months, with a total interest paid of $3584.22 and a total repayment amount of $15584.22.",5001
+2003,8002,Home Loan,300000,30,8,2022-02-01,2052-02-01,Active,320000,850,Home Purchase,60000,"The repayment schedule for this loan will be as follows:
+- Month 1-12: $1333.33
+- Month 13-60: $1333.33
+- Month 61-360: $1333.33
+
+This schedule will allow the customer to make equal monthly payments of $1333.33 for 360 months, with a total interest paid of $243919.58 and a total repayment amount of $543919.58.",5002
+2004,8003,Business Loan,10000,24,15,2022-03-01,2024-03-01,Active,0,680,Business Expansion,2000,"The repayment schedule for this loan will be as follows:
+- Month 1-6: $444.44
+- Month 7-12: $444.44
+- Month 13-18: $444.44
+- Month 19-24: $444.44
+
+This schedule will allow the customer to make equal monthly payments of $444.44 for 24 months, with a total interest paid of $2227.78 and a total repayment amount of $12227.78.",5003
+2005,8004,Auto Loan,20000,48,10,2022-04-01,2028-04-01,Active,20000,780,Car Purchase,4000,"The repayment schedule for this loan will be as follows:
+- Month 1-12: $444.44
+- Month 13-24: $444.44
+- Month 25-36: $444.44
+- Month 37-48: $444.44
+
+This schedule will allow the customer to make equal monthly payments of $444.44 for 48 months, with a total interest paid of $6905.94 and a total repayment amount of $26905.94.",5004
+2006,8005,Education Loan,8000,60,9,2022-05-01,2082-05-01,Active,0,760,Education,1000,"The repayment schedule for this loan will be as follows:
+- Month 1-12: $144.44
+- Month 13-60: $144.44
+
+This schedule will allow the customer to make equal monthly payments of $144.44 for 60 months, with a total interest paid of $3967.78 and a total repayment amount of $13967.78.",5005
+2007,8006,Personal Loan,12000,36,14,2022-06-01,2024-06-01,Active,0,740,Personal Expenses,3000,"The repayment schedule for this loan will be as follows:
+- Month 1-3: $333.33
+- Month 4-6: $333.33
+- Month 7-12: $333.33
+- Month 13-24: $333.33
+
+This schedule will allow the customer to make equal monthly payments of $333.33 for 36 months, with a total interest paid of $4533.33 and a total repayment amount of $15533.33.",5006
+2008,8007,Home Equity Loan,40000,15,12,2022-07-01,2037-07-01,Active,40000,810,Home Improvement,10000,"The repayment schedule for this loan will be as follows:
+- Month 1-15: $2666.67
+
+This schedule will allow the customer to make equal monthly payments of $2666.67 for 15 months, with a total interest paid of $3999.99 and a total repayment amount of $43999.99.",5007
+2009,8008,Business Loan,9000,24,16,2022-08-01,2024-08-01,Active,0,690,Business Acquisition,2000,"The repayment schedule for this loan will be as follows:
+- Month 1-6: $375.00
+- Month 7-12: $375.00
+- Month 13-18: $375.00
+- Month 19-24: $375.00
+
+This schedule will allow the customer to make equal monthly payments of $375.00 for 24 months, with a total interest paid of $4500.00 and a total repayment amount of $14500.00.",5008
+L12345,C67890,Personal,25000,60,12.5,2022-01-01,2024-12-31,Active,10000,720,Home Improvement,5000,"The repayment schedule will be as follows: 
+- Month 1-6: $416.67 
+- Month 7-12: $388.89 
+- Month 13-24: $361.11 
+This will result in 60 monthly payments of $361.11, totaling $21666.60. The customer will make a total interest payment of $4333.60. The total amount paid will be $26000.",O123
+1023,1899,Personal Loan,10000,60,12,2022-01-01,2023-12-31,Active,5000,720,Home Improvement,2000,Monthly repayments of $179.17 for 60 months. Initial payment due on 2022-02-01. Payments will be made on the 1st of each month. The last payment will be made on 2027-12-01.,12
+16,12345,Personal Loan,15000,36,12.5,2024-07-26,2025-07-26,Active,10000,700,Home Renovation,3000,"Payment 1: $433.44 on 2024-08-26, Payment 2: $433.44 on 2024-09-26, Payment 3: $433.44 on 2024-10-26, Payment 4: $433.44 on 2024-11-26, Payment 5: $433.44 on 2024-12-26, Payment 6: $433.44 on 2025-01-26, Payment 7: $433.44 on 2025-02-26, Payment 8: $433.44 on 2025-03-26, Payment 9: $433.44 on 2025-04-26, Payment 10: $433.44 on 2025-05-26, Payment 11: $433.44 on 2025-06-26, Payment 12: $433.44 on 2025-07-26, Payment 13: $433.44 on 2025-08-26, Payment 14: $433.44 on 2025-09-26, Payment 15: $433.44 on 2025-10-26, Payment 16: $433.44 on 2025-11-26, Payment 17: $433.44 on 2025-12-26, Payment 18: $433.44 on 2026-01-26, Payment 19: $433.44 on 2026-02-26, Payment 20: $433.44 on 2026-03-26, Payment 21: $433.44 on 2026-04-26, Payment 22: $433.44 on 2026-05-26, Payment 23: $433.44 on 2026-06-26, Payment 24: $433.44 on 2026-07-26, Payment 25: $433.44 on 2026-08-26, Payment 26: $433.44 on 2026-09-26, Payment 27: $433.44 on 2026-10-26, Payment 28: $433.44 on 2026-11-26, Payment 29: $433.44 on 2026-12-26, Payment 30: $433.44 on 2027-01-26, Payment 31: $433.44 on 2027-02-26, Payment 32: $433.44 on 2027-03-26, Payment 33: $433.44 on 2027-04-26, Payment 34: $433.44 on 2027-05-26, Payment 35: $433.44 on 2027-06-26, Payment 36: $433.44 on 2027-07-26.",67890
+1111,C001,Personal,15000,60,12.5,2022-01-01,2024-01-01,Approved,0,720,Home Improvement,3000,"The repayment schedule for this loan is as follows:
+* Month 1-6: $250
+* Month 7-12: $270
+* Month 13-18: $300
+* Month 19-24: $330
+* Month 25-30: $360
+* Month 31-36: $390
+* Month 37-42: $420
+* Month 43-48: $450
+* Month 49-54: $480
+* Month 55-60: $510
+
+The total interest paid over the life of the loan will be $5319.50. The total amount paid will be $16319.50.",LOF001
+101,50001,Personal,20000,36,12.5,2022-01-01,2024-01-01,Active,5000,700,Home Improvement,4000,"The loan will be repaid in 36 monthly installments of $586.67, with the first payment due on February 1, 2022. The loan will be fully repaid by January 1, 2024. The borrower will make a total of 36 payments, with a total interest paid of $10129.21. The loan will have a total value of $22129.21. The borrower will make payments of $586.67 for 36 months, and then the loan will be paid in full. The loan will be paid off in 3 years and 1 month. The total interest paid will be $10129.21. The loan will be fully repaid in 36 months. The borrower will make 36 monthly payments of $586.67, with the first payment due on February 1, 2022.",1001
+L0003,C0009,Personal,25000,60,8.5,2022-03-15,2025-03-15,Active,10000,720,Home improvement,5000,The loan has a monthly payment of $458.54 for 60 months. The first payment is due on 2022-04-15. The last payment is due on 2025-03-15. The total interest paid over the life of the loan is $6761.24. The total amount paid over the life of the loan is $26761.24.,LOF001
+216,155,Home Mortgage,200000,360,4.5,2022-09-01,2026-08-31,Active,220000,720,Primary Residence,40000,"Repayment will be made monthly for 36 months. The monthly payment will be $638.68. The breakdown of the payment is as follows: Principal: $555.45, Interest: $83.23. The total interest paid over the loan term will be $42445.59. The loan will be repaid in full on 2026-08-31.",101
+16,12345,Personal Loan,15000,36,12,2022-09-01,2024-08-31,Active,10000,750,Home Improvement,3000,"Repayment Schedule: 
+The repayment schedule for this loan is as follows:
+- Month 1-6: $417.65
+- Month 7-12: $433.33
+- Month 13-18: $450.17
+- Month 19-24: $468.19
+- Month 25-30: $488.33
+- Month 31-36: $510.72
+
+Total Interest Paid: $3434.19
+Total Amount Paid: $16434.19
+
+The repayment schedule is divided into five sections based on the interest rate and loan term. The interest rate remains constant at 12.0% APR throughout the loan term. The loan balance is paid off in equal installments of $417.65, $433.33, $450.17, $468.19, $488.33, and $510.72 for the first six months, seven months, thirteen months, nineteen months, twenty-five months, and thirty-one months, respectively.
+
+",7890
+1001,12345,Personal,5000,60,8.5,2022-01-01,2023-12-01,Active,1000,700,Wedding,1000,"The loan is repaid in monthly installments of $83.33 for 60 months. The first payment is due on February 1, 2022, and the last payment is due on January 1, 2027. The interest rate is 8.5% APR, and the total interest paid over the life of the loan is $1469.41. The loan is secured by a collateral of $1000. The borrower has a credit score of 700 at the time of loan application. The loan is taken for the purpose of financing a wedding. The borrower has made a down payment of $1000. The loan is administered by Loan Officer ID 100.",100
+20240001,10100001,Personal,30000,36,6.2,2022-01-01,2024-01-01,Active,5000,750,Home Renovation,5000,"The repayment schedule for this loan is as follows:
+* Monthly payment: $833.33
+* Total interest paid: $4133.19
+* Total amount paid: $34133.19
+
+The loan has a fixed interest rate of 6.2% APR and is repaid over a period of 36 months. The monthly payment amount is $833.33, and the total interest paid over the loan term is $4133.19. The total amount paid, including the principal and interest, is $34133.19.",5000001
+216,1024,Personal,15000,36,12.5,2023-01-01,2024-12-31,Active,20000,750,Home Renovation,5000,"The repayment schedule will be as follows: The monthly payment will be $469.59 for 36 months. The total interest paid will be $4641.61. The total amount paid will be $15000.00. 
+
+The repayment schedule is as follows: 
+Month 1-6: $469.59 
+Month 7-12: $469.59 
+Month 13-18: $469.59 
+Month 19-24: $469.59 
+Month 25-30: $469.59 
+Month 31-36: $469.59",100
+10001,12345,Personal Loan,20000,36,12.5,2022-01-01,2024-01-01,Active,0,750,Home Improvement,5000,"Repayment Schedule:
+
+1. Payment 1: $571.42 due on 2022-01-15
+
+2. Payment 2: $571.42 due on 2022-02-15
+
+3. Payment 3: $571.42 due on 2022-03-15
+
+4. Payment 4: $571.42 due on 2022-04-15
+
+5. Payment 5: $571.42 due on 2022-05-15
+
+6. Payment 6: $571.42 due on 2022-06-15
+
+7. Payment 7: $571.42 due on 2022-07-15
+
+8. Payment 8: $571.42 due on 2022-08-15
+
+9. Payment 9: $571.42 due on 2022-09-15
+
+10. Payment 10: $571.42 due on 2022-10-15
+
+11. Payment 11: $571.42 due on 2022-11-15
+
+12. Payment 12: $571.42 due on 2022-12-15
+
+13. Payment 13: $571.42 due on 2023-01-15
+
+14. Payment 14: $571.42 due on 2023-02-15
+
+15. Payment 15: $571.42 due on 2023-03-15
+
+16. Payment 16: $571.42 due on 2023-04-15
+
+17. Payment 17: $571.42 due on 2023-05-15
+
+18. Payment 18: $571.42 due on 2023-06-15
+
+19. Payment 19: $571.42 due on 2023-07-15
+
+20. Payment 20: $571.42 due on 2023-08-15
+
+21. Payment 21: $571.42 due on 2023-09-15
+
+22. Payment 22: $571.42 due on 2023-10-15
+
+23. Payment 23: $571.42 due on 2023-11-15
+
+24. Payment 24: $571.42 due on 2023-12-15
+
+25. Payment 25: $571.42 due on 2024-01-15
+
+26. Payment 26: $571.42 due on 2024-02-15
+
+27. Payment 27: $571.42 due on 2024-03-15
+
+28. Payment 28: $571.42 due on 2024-04-15
+
+29. Payment 29: $571.42 due on 2024-05-15
+
+30. Payment 30: $571.42 due on 2024-06-15
+
+31. Payment 31: $571.42 due on 2024-07-15
+
+32. Payment 32: $571.42 due on 2024-08-15
+
+33. Payment 33: $571.42 due on 2024-09-15
+
+34. Payment 34: $571.42 due on 2024-10-15
+
+35. Payment 35: $571.42 due on 2024-11-15
+
+36. Payment 36: $571.42 due on 2024-12-15",67890
+1501,CU_00845,Personal Loan,25000,36,12.5,2022-01-01,2024-01-01,Active,0,720,Home Renovation,5000,"The repayment schedule for this loan will be as follows:
+
+Monthly Payment: $729.89
+Interest Paid: $1062.96
+Total Amount Paid: $27663.04
+Repayment Period: 36 months
+First Payment Due Date: 2022-02-01
+Last Payment Due Date: 2024-01-01
+
+",LO_00123
+21945,108,Personal,20000,60,12,2022-01-01,2024-12-31,Active,10000,750,Home Improvement,3000,"The repayment schedule for this loan is as follows:
+- Month 1-3: $333.33
+- Month 4-6: $333.33
+- Month 7-12: $333.33
+- Month 13-24: $333.33
+The borrower will make equal monthly payments of $333.33 for 24 months. The loan term is 2 years, with a 1-year grace period. The interest rate is 12% APR, and the total interest paid over the life of the loan will be $3600.00.
+
+The repayment schedule will be as follows:
+- Month 1: $333.33
+- Month 2: $333.33
+- Month 3: $333.33
+- Month 4: $333.33
+- Month 5: $333.33
+- Month 6: $333.33
+- Month 7: $333.33
+- Month 8: $333.33
+- Month 9: $333.33
+- Month 10: $333.33
+- Month 11: $333.33
+- Month 12: $333.33
+- Month 13: $333.33
+- Month 14: $333.33
+- Month 15: $333.33
+- Month 16: $333.33
+- Month 17: $333.33
+- Month 18: $333.33
+- Month 19: $333.33
+- Month 20: $333.33
+- Month 21: $333.33
+- Month 22: $333.33
+- Month 23: $333.33
+- Month 24: $333.33",5
+1012,325,Personal,15000,36,12.5,2022-02-22,2025-02-22,Active,10000,650,Home Renovation,5000,"Repayment Schedule
+This schedule outlines the monthly payments for the loan. The payment amount will be $416.67 for 36 months, with the first payment due on March 22, 2022. The loan will be paid in full on February 22, 2025. The total interest paid over the life of the loan will be $3351.11.
+
+Payment 1: $416.67, due March 22, 2022
+Payment 2: $416.67, due April 22, 2022
+Payment 3: $416.67, due May 22, 2022
+Payment 4: $416.67, due June 22, 2022
+Payment 5: $416.67, due July 22, 2022
+Payment 6: $416.67, due August 22, 2022
+Payment 7: $416.67, due September 22, 2022
+Payment 8: $416.67, due October 22, 2022
+Payment 9: $416.67, due November 22, 2022
+Payment 10: $416.67, due December 22, 2022
+Payment 11: $416.67, due January 22, 2023
+Payment 12: $416.67, due February 22, 2023
+Payment 13: $416.67, due March 22, 2023
+Payment 14: $416.67, due April 22, 2023
+Payment 15: $416.67, due May 22, 2023
+Payment 16: $416.67, due June 22, 2023
+Payment 17: $416.67, due July 22, 2023
+Payment 18: $416.67, due August 22, 2023
+Payment 19: $416.67, due September 22, 2023
+Payment 20: $416.67, due October 22, 2023
+Payment 21: $416.67, due November 22, 2023
+Payment 22: $416.67, due December 22, 2023
+Payment 23: $416.67, due January 22, 2024
+Payment 24: $416.67, due February 22, 2024
+Payment 25: $416.67, due March 22, 2024
+Payment 26: $416.67, due April 22, 2024
+Payment 27: $416.67, due May 22, 2024
+Payment 28: $416.67, due June 22, 2024
+Payment 29: $416.67, due July 22, 2024
+Payment 30: $416.67, due August 22, 2024
+Payment 31: $416.67, due September 22, 2024
+Payment 32: $416.67, due October 22, 2024
+Payment 33: $416.67, due November 22, 2024
+Payment 34: $416.67, due December 22, 2024
+Payment 35: $416.67, due January 22, 2025
+Payment 36: $416.67, due February 22, 2025",118
+L001022,C002031,Personal Loan,12000,60,12.5,2022-01-01,2023-12-31,Active,8000,750,Home Improvement,3000,"The repayment schedule for this loan is as follows:
+
+* Month 1-3: $200.00
+* Month 4-6: $220.00
+* Month 7-9: $240.00
+* Month 10-12: $260.00
+
+The loan will be paid in full by the end of the 12th month.
+
+
+This repayment schedule is subject to change based on the customer's payment history and credit score. 
+
+
+Please note that the interest rate is 12.5% APR and the loan amount is $12000.00.",LOF001
+20001,9002,Home Loan,120000,240,4.2,2022-01-01,2027-01-01,Active,150000,750,Home Purchase,30000,"The repayment schedule will be as follows:
+
+- Month 1-6: $1767.24
+- Month 7-12: $1765.19
+- Month 13-18: $1762.99
+- Month 19-24: $1760.75
+- Month 25-30: $1758.48
+- Month 31-36: $1756.17
+- Month 37-42: $1753.82
+- Month 43-48: $1751.43
+- Month 49-54: $1748.99
+- Month 55-60: $1746.52
+- Month 61-72: $1744.01
+
+Total interest paid over the life of the loan: $44445.60
+
+Total amount paid over the life of the loan: $164445.60",1003
+L0017,C0098,Personal,12000,48,8.5,2022-09-01,2024-04-01,Active,0,660,Home Improvement,2000,"The loan will be repaid in 48 months with monthly payments of $266.66. The payment schedule will be as follows: Month 1-6: $266.66, Month 7-12: $275.00, Month 13-24: $283.33, Month 25-36: $291.66, Month 37-48: $300.00. The total interest paid will be $3514.40. The total amount paid will be $13514.40. The loan will be fully amortized at the end of the 48-month term.",LOF101
+2024001,CUS_123456789,Personal,30000,60,8.5,2023-03-01,2028-03-01,Active,5000,750,Home Renovation,10000,"The repayment schedule for this loan is as follows: 
+
+- Month 1-6: $450.00 
+- Month 7-12: $460.00 
+- Month 13-24: $470.00 
+- Month 25-36: $480.00 
+- Month 37-48: $490.00 
+- Month 49-60: $500.00 
+
+This schedule assumes a fixed interest rate of 8.5% APR and a loan term of 60 months. The borrower will make equal monthly payments of $500.00 for the first 6 months, $460.00 for the next 6 months, $470.00 for the next 6 months, $480.00 for the next 6 months, $490.00 for the next 6 months, and $500.00 for the final 6 months. This payment schedule will ensure that the loan is repaid in full within the agreed-upon term of 60 months. 
+
+Please note that this is a sample repayment schedule and actual payments may vary based on various factors such as interest rates, loan terms, and any fees associated with the loan.",LOF_987654321
+155,456,Personal Loan,12000,36,12.5,2022-01-01,2024-01-01,Active,0,720,Home improvement,2000,"Repayment will be made through 36 monthly installments of $375.00. The first payment will be due on February 1, 2022. The final payment will be made on January 1, 2024. The interest rate is 12.5% APR. The total interest paid will be $4320. The total amount paid will be $14320. The loan is secured by a home with an appraised value of $0. The borrower's credit score at the time of application was 720. The loan was used for home improvement. The down payment amount was $2000. The loan is currently active.",123
+156,789,Mortgage,250000,240,4,2020-06-01,2040-06-01,Active,300000,850,Primary Residence,50000,"Repayment will be made through 240 monthly installments of $1458.19. The first payment will be due on July 1, 2020. The final payment will be made on June 1, 2040. The interest rate is 4.0% APR. The total interest paid will be $123519. The total amount paid will be $375000. The loan is secured by a home with an appraised value of $300000. The borrower's credit score at the time of application was 850. The loan was used for primary residence. The down payment amount was $50000. The loan is currently active.",456
+157,321,Business Loan,50000,60,8,2018-03-01,2020-03-01,Paid Off,0,680,Business Expansion,10000,"Repayment will be made through 60 monthly installments of $1053.49. The first payment will be due on April 1, 2018. The final payment will be made on March 1, 2020. The interest rate is 8.0% APR. The total interest paid will be $12192. The total amount paid will be $62192. The loan was secured by a business with an appraised value of $0. The borrower's credit score at the time of application was 680. The loan was used for business expansion. The down payment amount was $10000. The loan is currently paid off.",789
+158,654,Personal Loan,8000,24,11,2021-09-01,2023-09-01,Active,0,750,Debt Consolidation,0,"Repayment will be made through 24 monthly installments of $381.94. The first payment will be due on October 1, 2021. The final payment will be made on September 1, 2023. The interest rate is 11.0% APR. The total interest paid will be $3147. The total amount paid will be $11147. The loan is secured by a home with an appraised value of $0. The borrower's credit score at the time of application was 750. The loan was used for debt consolidation. The down payment amount was $0. The loan is currently active.",321
+159,987,Mortgage,375000,360,5,2015-01-01,2035-01-01,Active,400000,820,Secondary Residence,37500,"Repayment will be made through 360 monthly installments of $1509.91. The first payment will be due on February 1, 2015. The final payment will be made on January 1, 2035. The interest rate is 5.0% APR. The total interest paid will be $193919. The total amount paid will be $625000. The loan is secured by a home with an appraised value of $400000. The borrower's credit score at the time of application was 820. The loan was used for secondary residence. The down payment amount was $37500. The loan is currently active.",654
+160,321,Business Loan,30000,48,9,2019-06-01,2023-06-01,Active,0,690,Working Capital,6000,"Repayment will be made through 48 monthly installments of $728.13. The first payment will be due on July 1, 2019. The final payment will be made on June 1, 2023. The interest rate is 9.0% APR. The total interest paid will be $20094. The total amount paid will be $54094. The loan was secured by a business with an appraised value of $0. The borrower's credit score at the time of application was 690. The loan was used for working capital. The down payment amount was $6000. The loan is currently active.",987
+161,753,Personal Loan,9000,30,10,2020-03-01,2023-03-01,Active,0,760,Vacation,0,"Repayment will be made through 30 monthly installments of $341.13. The first payment will be due on April 1, 2020. The final payment will be made on March 1, 2023. The interest rate is 10.0% APR. The total interest paid will be $2430. The total amount paid will be $9430. The loan is secured by a home with an appraised value of $0. The borrower's credit score at the time of application was 760. The loan was used for vacation. The down payment amount was $0. The loan is currently active.",753
+1001,1001,Personal,50000,60,12.5,2022-01-01,2025-01-01,Active,20000,750,Home Improvement,10000,"The repayment schedule for this loan will be as follows: 
+- Month 1-6: $833.33 
+- Month 7-12: $850.63 
+- Month 13-24: $867.94 
+- Month 24+: $885.26 
+This schedule is based on a fixed interest rate of 12.5% and a loan term of 5 years. The total interest paid will be $13419.41, and the total amount paid will be $51419.41.",1001
+1002,1002,Business,80000,36,15,2021-06-01,2023-06-01,Closed,40000,800,Equipment Purchase,16000,"The repayment schedule for this loan will be as follows: 
+- Month 1-3: $2222.22 
+- Month 4-12: $2375.65 
+- Month 13-36: $2529.11 
+This schedule is based on a fixed interest rate of 15% and a loan term of 3 years. The total interest paid will be $14441.19, and the total amount paid will be $83441.19.",1002
+1003,1003,Personal,30000,24,10,2020-03-01,2024-03-01,Active,10000,720,Vacation,6000,"The repayment schedule for this loan will be as follows: 
+- Month 1-6: $1250 
+- Month 7-12: $1312.50 
+- Month 13-24: $1375 
+This schedule is based on a fixed interest rate of 10% and a loan term of 4 years. The total interest paid will be $4625, and the total amount paid will be $32625.",1003
+1004,1004,Business,60000,48,12,2019-09-01,2027-09-01,Active,30000,820,Working Capital,12000,"The repayment schedule for this loan will be as follows: 
+- Month 1-12: $1250 
+- Month 13-24: $1312.50 
+- Month 25-48: $1375 
+This schedule is based on a fixed interest rate of 12% and a loan term of 8 years. The total interest paid will be $21625, and the total amount paid will be $62625.",1004
+1005,1005,Personal,40000,36,11,2018-12-01,2024-12-01,Closed,20000,740,Education,8000,"The repayment schedule for this loan will be as follows: 
+- Month 1-3: $1111.11 
+- Month 4-12: $1194.44 
+- Month 13-36: $1277.78 
+This schedule is based on a fixed interest rate of 11% and a loan term of 6 years. The total interest paid will be $10000, and the total amount paid will be $43000.",1005
+1006,1006,Business,70000,60,13.5,2018-06-01,2028-06-01,Active,35000,860,Expansion,14000,"The repayment schedule for this loan will be as follows: 
+- Month 1-6: $1166.67 
+- Month 7-12: $1241.67 
+- Month 13-24: $1316.67 
+- Month 24+: $1391.67 
+This schedule is based on a fixed interest rate of 13.5% and a loan term of 10 years. The total interest paid will be $33750, and the total amount paid will be $73750.",1006
+1007,1007,Personal,50000,30,9,2017-09-01,2022-09-01,Closed,25000,710,Home Purchase,10000,"The repayment schedule for this loan will be as follows: 
+- Month 1-10: $1666.67 
+- Month 11-30: $1750 
+This schedule is based on a fixed interest rate of 9% and a loan term of 5 years. The total interest paid will be $6250, and the total amount paid will be $51250.",1007
+1008,1008,Business,90000,72,14,2017-03-01,2029-03-01,Active,45000,830,Acquisition,18000,"The repayment schedule for this loan will be as follows: 
+- Month 1-18: $1250 
+- Month 19-36: $1312.50 
+- Month 37-72: $1375 
+This schedule is based on a fixed interest rate of 14% and a loan term of 12 years. The total interest paid will be $43125, and the total amount paid will be $93125.",1008
+1001,12345,Personal,20000,36,12.5,2022-01-01,2023-01-01,Active,10000,650,Home Improvement,5000,"The repayment schedule for this loan is as follows:
+- Month 1-3: $555.56
+- Month 4-6: $555.56
+- Month 7-12: $555.56
+- Month 13-24: $555.56
+This loan has a total of 36 months to be repaid. The interest rate is 12.5% APR. The customer is required to make monthly payments of $555.56. The total interest paid over the life of the loan is $6341.68. The loan starts on January 1, 2022, and ends on January 1, 2023. The customer has made 3 payments so far, with the last payment being made on March 1, 2023.
+
+The customer's credit score at the time of loan application was 650. The loan officer's ID is 6789.
+
+This loan was approved on December 15, 2021. The loan officer's name is Jane Doe. The loan purpose is home improvement. The loan amount is $20000. The loan term is 36 months. The interest rate is 12.5% APR. The loan start date is January 1, 2022. The loan end date is January 1, 2023. The collateral value is $10000. The down payment amount is $5000. The loan status is active.
+
+The customer's contact information is as follows:
+Name: John Smith
+Address: 123 Main St, Anytown, USA
+Phone: 555-555-5555
+Email: john.smith@example.com",6789

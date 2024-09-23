@@ -1,0 +1,51 @@
+Customer ID,Credit Bureau,Credit Score,Credit Rating,Report Date,Public Records Flag,Collections Flag,Total Debt Amount Reported,Open Credit Accounts,Closed Credit Accounts,Number of Credit Inquiries,Utilization Ratio Reported by Bureau
+CUST-12345,Experian,720,Excellent,2023-07-25,false,false,5000,3,2,1,30
+CUST-67890,Equifax,850,Superior,2023-07-24,true,true,10000,5,4,2,20
+CUST-23456,TransUnion,740,Good,2023-07-23,false,false,2000,1,1,0,10
+CUST-90123,Experian,780,Very Good,2023-07-22,true,false,8000,4,3,1,40
+CUST-45678,Equifax,820,Superior,2023-07-21,false,false,6000,2,2,0,25
+CUST-34567,TransUnion,700,Fair,2023-07-20,true,true,4000,6,5,3,50
+CUST-78901,Experian,790,Very Good,2023-07-19,false,false,7000,3,2,1,35
+CUST-67890,Equifax,810,Superior,2023-07-18,true,true,9000,4,3,2,30
+CUST-23456,TransUnion,760,Good,2023-07-17,false,false,3000,2,1,0,15
+CUST-90123,Experian,750,Fair,2023-07-16,true,true,5000,5,4,2,45
+CUST-45678,Equifax,830,Superior,2023-07-15,false,false,8000,3,2,1,20
+CUST-34567,TransUnion,710,Fair,2023-07-14,true,true,6000,6,5,3,55
+CUST-78901,Experian,780,Very Good,2023-07-13,false,false,9000,4,3,1,40
+CUST-67890,Equifax,840,Superior,2023-07-12,true,true,10000,5,4,2,25
+CUST-23456,TransUnion,760,Good,2023-07-11,false,false,4000,3,2,0,18
+CUST-90123,Experian,740,Fair,2023-07-10,true,true,7000,6,5,2,48
+CUST-45678,Equifax,830,Superior,2023-07-09,false,false,6000,4,3,1,22
+CUST-34567,TransUnion,720,Fair,2023-07-08,true,true,8000,7,6,3,58
+CUST-78901,Experian,810,Very Good,2023-07-07,false,false,9000,5,4,1,38
+CUST-67890,Equifax,850,Superior,2023-07-06,true,true,11000,6,5,2,28
+CUST-90124,Experian,760,Fair,2023-07-17,true,true,5500,7,6,3,42
+CUST-45679,Equifax,820,Superior,2023-07-18,false,false,7000,5,4,1,30
+CUST-34568,TransUnion,750,Good,2023-07-19,true,true,8000,8,7,2,50
+CUST-78902,Experian,790,Very Good,2023-07-20,false,false,9500,6,5,1,35
+CUST-67891,Equifax,860,Superior,2023-07-21,true,true,12000,7,6,2,32
+CUST-23457,TransUnion,780,Good,2023-07-22,false,false,4500,4,3,0,20
+CUST-90125,Experian,730,Fair,2023-07-23,true,true,6500,8,7,3,45
+CUST-45680,Equifax,830,Superior,2023-07-24,false,false,6000,5,4,1,25
+CUST-34569,TransUnion,720,Fair,2023-07-25,true,true,8500,9,8,3,55
+CUST-78903,Experian,810,Very Good,2023-07-26,false,false,10000,6,5,1,40
+CUST-67892,Equifax,850,Superior,2023-07-27,true,true,13000,8,7,2,30
+CUST-23458,TransUnion,770,Good,2023-07-28,false,false,5000,5,4,0,22
+CUST-90126,Experian,740,Fair,2023-07-29,true,true,7500,9,8,3,48
+CUST-45681,Equifax,820,Superior,2023-07-30,false,false,6500,6,5,1,35
+CUST-34570,TransUnion,750,Good,2023-07-31,true,true,9000,10,9,2,50
+CUST-78904,Experian,790,Very Good,2023-08-01,false,false,10500,7,6,1,38
+CUST-67893,Equifax,860,Superior,2023-08-02,true,true,14000,9,8,2,32
+CUST-23459,TransUnion,780,Good,2023-08-03,false,false,5500,6,5,0,25
+CUST-90127,Experian,730,Fair,2023-08-04,true,true,7000,10,9,3,45
+CUST-45682,Equifax,830,Superior,2023-08-05,false,false,7000,7,6,1,30
+CUST-34571,TransUnion,720,Fair,2023-08-06,true,true,9000,11,10,3,55
+CUST-78905,Experian,810,Very Good,2023-08-07,false,false,11000,8,7,1,40
+CUST-67894,Equifax,850,Superior,2023-08-08,true,true,15000,10,9,2,30
+CUST-12345,Experian,760,Good,2023-08-09,false,false,8000,5,4,2,20
+CUST-67895,Equifax,880,Superior,2023-08-10,true,true,16000,12,11,3,35
+CUST-90128,TransUnion,740,Fair,2023-08-11,false,false,6000,8,7,1,40
+CUST-45683,Experian,830,Very Good,2023-08-12,true,true,12000,9,8,2,32
+CUST-34572,Equifax,810,Good,2023-08-13,false,false,7000,6,5,0,25
+CUST-78906,TransUnion,820,Fair,2023-08-14,true,true,10000,10,9,3,45
+CUST-67896,Experian,840,Superior,2023-08-15,false,false,18000,11,10,2,28

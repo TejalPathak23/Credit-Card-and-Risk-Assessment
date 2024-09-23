@@ -1,0 +1,51 @@
+Customer ID,Full Name,Date of Birth,Gender,Address,City,State,Country,Phone Number,Email Address,Employment Status,Years of Employment,Annual Income,Occupation,Number of Dependents,Marital Status
+1001,Liliana Nieves,12-02-1987,Female,456 Maple St,Springfield,IL,USA,555-123-4567,liliana.nieves@example.com,Employed,10,80000,Software Engineer,2,Married
+1002,Kaitlyn Patel,25-05-1992,Female,789 Oak St,Chicago,IL,USA,555-456-7890,kaitlyn.patel@example.com,Self-Employed,5,120000,Entrepreneur,1,Single
+1003,Mateo Hernandez,22-08-1978,Male,321 Pine St,New York,NY,USA,555-789-0123,mateo.hernandez@example.com,Employed,12,90000,Doctor,3,Married
+1004,Evelyn Kim,01-01-1995,Female,901 Cedar St,Los Angeles,CA,USA,555-901-2345,evelyn.kim@example.com,Employed,8,70000,Teacher,2,Married
+1005,Jaden Martin,15-03-1985,Male,234 Elm St,Houston,TX,USA,555-111-2222,jaden.martin@example.com,Self-Employed,4,110000,Artist,1,Single
+1006,Sofia Rodriguez,20-06-1990,Female,567 Willow St,Miami,FL,USA,555-333-4444,sofia.rodriguez@example.com,Employed,9,60000,Nurse,3,Married
+1007,Alexander Lee,18-09-1975,Male,890 Walnut St,San Francisco,CA,USA,555-666-7777,alexander.lee@example.com,Employed,11,100000,Lawyer,2,Married
+1008,Ava Chen,02-04-1998,Female,345 Maple St,Boston,MA,USA,555-222-3333,ava.chen@example.com,Self-Employed,6,140000,Software Engineer,1,Single
+1009,Liam Brooks,15-11-1982,Male,678 Oak St,Seattle,WA,USA,555-444-5555,liam.brooks@example.com,Employed,7,75000,Doctor,2,Married
+1010,Isabella Brown,25-07-1993,Female,901 Pine St,Dallas,TX,USA,555-555-6666,isabella.brown@example.com,Employed,5,90000,Teacher,1,Single
+1011,Noah Hall,01-05-1980,Male,234 Cedar St,San Diego,CA,USA,555-888-9999,noah.hall@example.com,Self-Employed,3,130000,Artist,2,Married
+1012,Mia Kim,14-02-1996,Female,567 Elm St,Phoenix,AZ,USA,555-777-8888,mia.kim@example.com,Employed,4,70000,Nurse,3,Married
+1013,Ethan White,22-03-1979,Male,890 Maple St,Nashville,TN,USA,555-999-0000,ethan.white@example.com,Employed,10,80000,Lawyer,2,Married
+1014,Charlotte Davis,05-08-1991,Female,123 Pine St,Kansas City,MO,USA,555-666-7777,charlotte.davis@example.com,Self-Employed,9,120000,Entrepreneur,1,Single
+1015,Logan Martin,18-01-1988,Male,567 Cedar St,Atlanta,GA,USA,555-444-5555,logan.martin@example.com,Employed,6,90000,Doctor,3,Married
+1016,Ava Taylor,12-09-1997,Female,901 Elm St,Denver,CO,USA,555-555-6666,ava.taylor@example.com,Self-Employed,5,110000,Artist,1,Single
+1017,Sophia Patel,15-01-1995,Female,345 Oak St,Chicago,IL,USA,555-222-3333,sophia.patel@example.com,Employed,8,85000,Teacher,2,Married
+1018,Alexander Lee,20-06-1985,Male,678 Maple St,Houston,TX,USA,555-444-5555,alexander.lee@example.com,Self-Employed,7,130000,Lawyer,1,Single
+1019,Mia Hall,22-03-1994,Female,234 Cedar St,San Jose,CA,USA,555-555-6666,mia.hall@example.com,Employed,4,70000,Nurse,3,Married
+1020,Ethan Kim,02-01-1983,Male,567 Elm St,Phoenix,AZ,USA,555-777-8888,ethan.kim@example.com,Employed,9,100000,Doctor,2,Married
+1021,Charlotte Brooks,25-08-1992,Female,890 Maple St,Nashville,TN,USA,555-999-0000,charlotte.brooks@example.com,Self-Employed,6,120000,Entrepreneur,1,Single
+1022,Logan White,01-06-1987,Male,123 Pine St,Kansas City,MO,USA,555-666-7777,logan.white@example.com,Employed,10,90000,Teacher,3,Married
+1023,Ava Martin,18-01-1990,Female,567 Cedar St,Atlanta,GA,USA,555-444-5555,ava.martin@example.com,Self-Employed,8,110000,Artist,2,Single
+1024,Noah Lee,12-03-1989,Male,901 Elm St,Denver,CO,USA,555-555-6666,noah.lee@example.com,Employed,7,85000,Doctor,1,Married
+1025,Isabella Davis,15-06-1996,Female,345 Oak St,Chicago,IL,USA,555-222-3333,isabella.davis@example.com,Self-Employed,9,130000,Teacher,2,Married
+1026,Ethan Brown,25-01-1986,Male,678 Maple St,Houston,TX,USA,555-444-5555,ethan.brown@example.com,Employed,8,100000,Lawyer,1,Single
+1027,Sophia Kim,01-08-1993,Female,234 Cedar St,San Jose,CA,USA,555-555-6666,sophia.kim@example.com,Self-Employed,6,120000,Nurse,3,Married
+1028,Alexander Hall,22-03-1984,Male,567 Elm St,Phoenix,AZ,USA,555-777-8888,alexander.hall@example.com,Employed,10,90000,Doctor,2,Married
+1029,Mia White,15-01-1992,Female,890 Maple St,Nashville,TN,USA,555-999-0000,mia.white@example.com,Self-Employed,9,110000,Artist,1,Single
+1030,Logan Patel,20-06-1988,Male,123 Pine St,Kansas City,MO,USA,555-666-7777,logan.patel@example.com,Employed,8,85000,Teacher,3,Married
+1031,Ava Brooks,12-03-1991,Female,567 Cedar St,Atlanta,GA,USA,555-444-5555,ava.brooks@example.com,Self-Employed,7,130000,Doctor,2,Married
+1032,Noah Lee,25-01-1987,Male,901 Elm St,Denver,CO,USA,555-555-6666,noah.lee@example.com,Employed,10,100000,Lawyer,1,Single
+1033,Isabella Davis,01-08-1995,Female,345 Oak St,Chicago,IL,USA,555-222-3333,isabella.davis@example.com,Self-Employed,9,120000,Teacher,2,Married
+1034,Ethan Kim,18-01-1985,Male,678 Maple St,Houston,TX,USA,555-444-5555,ethan.kim@example.com,Employed,8,110000,Doctor,3,Married
+1035,Sophia Brown,15-06-1994,Female,234 Cedar St,San Jose,CA,USA,555-555-6666,sophia.brown@example.com,Self-Employed,6,130000,Nurse,1,Single
+1046,Aisha Saeed,22-02-1998,Female,321 Maple St,Columbus,OH,USA,555-111-2222,aisha.saeed@example.com,Self-Employed,5,95000,Artist,2,Married
+1047,Liam Chen,12-08-1989,Male,456 Oak St,Austin,TX,USA,555-222-3333,liam.chen@example.com,Employed,9,105000,Lawyer,1,Single
+1048,Evelyn Patel,15-03-1996,Female,789 Cedar St,Boston,MA,USA,555-333-4444,evelyn.patel@example.com,Self-Employed,8,125000,Nurse,3,Married
+1049,Noah Brooks,18-01-1986,Male,321 Elm St,Miami,FL,USA,555-444-5555,noah.brooks@example.com,Employed,10,90000,Doctor,2,Married
+1050,Ava Lee,20-06-1999,Female,901 Maple St,Seattle,WA,USA,555-555-6666,ava.lee@example.com,Self-Employed,7,115000,Teacher,1,Single
+1051,Ethan Hall,12-03-1982,Male,234 Oak St,Dallas,TX,USA,555-666-7777,ethan.hall@example.com,Employed,11,120000,Lawyer,3,Married
+1052,Isabella White,25-01-1997,Female,567 Cedar St,Los Angeles,CA,USA,555-777-8888,isabella.white@example.com,Self-Employed,9,100000,Nurse,2,Married
+1053,Liam Saeed,15-06-1983,Male,890 Maple St,Jacksonville,FL,USA,555-888-9999,liam.saeed@example.com,Employed,8,125000,Teacher,1,Single
+1054,Ava Brown,22-02-1990,Female,123 Pine St,New York City,NY,USA,555-999-0000,ava.brown@example.com,Self-Employed,6,110000,Doctor,3,Married
+1055,Ethan Davis,18-01-1981,Male,678 Elm St,Cleveland,OH,USA,555-111-2222,ethan.davis@example.com,Employed,12,105000,Lawyer,2,Married
+1056,Isabella Chen,12-03-1992,Female,456 Oak St,Memphis,TN,USA,555-222-3333,isabella.chen@example.com,Self-Employed,10,120000,Teacher,1,Single
+1057,Liam Patel,01-08-1985,Male,789 Cedar St,Baltimore,MD,USA,555-333-4444,liam.patel@example.com,Employed,9,130000,Nurse,3,Married
+1058,Ava Saeed,15-06-1993,Female,321 Maple St,Sacramento,CA,USA,555-444-5555,ava.saeed@example.com,Self-Employed,7,115000,Doctor,2,Married
+1059,Ethan Brooks,25-01-1988,Male,890 Maple St,Milwaukee,WI,USA,555-555-6666,ethan.brooks@example.com,Employed,10,100000,Lawyer,1,Single
+1060,Isabella Lee,22-02-1991,Female,234 Oak St,Portland,OR,USA,555-666-7777,isabella.lee@example.com,Self-Employed,8,125000,Teacher,3,Married
